@@ -4,6 +4,11 @@ My name is PANOSKPT.
 I like to make fun projects that other people can edit and make them suit their style.
 
 
+Socials:
+[Instagram](https://l.panoskpt.tk/instagram)
+[Discord Profile](https://l.panoskpt.tk/discordacc)
+
+
 
 <!--
 **PANOSKPT/PANOSKPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
